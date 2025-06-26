@@ -20,7 +20,6 @@
 - Ledger
 - Spark
 - Textile Backup
-- Discord MC Chat
   
 ---
 ### Tools
