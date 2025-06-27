@@ -35,6 +35,9 @@
 - [Fabric language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
 - [Item Components](https://modrinth.com/mod/item-components)
+- [Lithostitched]()
+- [Architectury]()
+- [Collective]()
 
 ### Performance
 - [Noisium](https://modrinth.com/mod/noisium) 
