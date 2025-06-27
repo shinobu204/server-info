@@ -16,8 +16,6 @@
 - [NightmareMode-custom](https://www.planetminecraft.com/data-pack/nightmare-mode-for-minecraft-1-19/)
 - [Stackable-Potions](https://modrinth.com/datapack/stackable-potions)
 - [BetterFurnace](https://modrinth.com/datapack/better-furnaces)
-- [Incendium](https://modrinth.com/datapack/incendium)
-- [Nullscape](https://modrinth.com/datapack/nullscape)
 - [TargetDummy](https://modrinth.com/datapack/target-dummy)
 - [Dungeons-and-Taverns](https://modrinth.com/datapack/dungeons-and-taverns)
 - [Joshs-More-Foods](https://modrinth.com/datapack/joshs-more-foods)
@@ -29,6 +27,8 @@
 ### World Gen
 - [Terralith](https://modrinth.com/mod/terralith)
 - [Tectonic](https://modrinth.com/mod/tectonic)
+- [Incendium]()
+- [Nullscape]()
 
 ### Library Mods
 - [Fabric API](https://modrinth.com/mod/fabric-api)
