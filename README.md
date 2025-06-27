@@ -1,6 +1,16 @@
+# [‼️‼️‼️ Mandatory Resource Packs [CLICK ME] ‼️‼️‼️](https://drive.proton.me/urls/WC7FGTEBXR#HFq21ElbsgxE)
+# [ℹ️ Recommended (optional) client modpack profile [CLICK ME] ℹ️]()
+​
+​
+​
+​
 # Server side mods
 ---
-#### Library Mods 
+### World Gen
+- Terralith
+- Tectonic
+---
+### Library Mods 
 - Fabric API
 - Fabric language Kotlin
 - Cloth Config
@@ -31,3 +41,5 @@
 - Essential Commands
 - SkinRestorer
 - HeyThatsMine
+---
+# Datapacks
