@@ -7,11 +7,11 @@
 
 # Datapacks
 ---
-- [AnimatedDoors](https://modrinth.com/resourcepack/animated-doors-revamped)
-- [DynamicLights](https://modrinth.com/mod/lambdynamiclights) 
-- [NeoEnchant-custom](https://modrinth.com/datapack/neo-enchant)
-- [Player-Health-Indicator](https://modrinth.com/datapack/health-display) 
-- [Backpacks](https://modrinth.com/datapack/backpacks)
+- [AnimatedDoors](https://modrinth.com/resourcepack/animated-doors)
+- [DynamicLights](https://modrinth.com/datapack/dynamic-lights) 
+- [NeoEnchant (this is the vanilla NeoEnchant+ page, our config is custom due to balancing)](https://modrinth.com/project/BynmO8IO)
+- [Player-Health-Indicator](https://modrinth.com/project/OCf6QSF2) 
+- [Backpacks](https://modrinth.com/datapack/vanilla-backpacks)
 - [Furnicraft](https://modrinth.com/datapack/furnicraft)
 - [NightmareMode-custom](https://www.planetminecraft.com/data-pack/nightmare-mode-for-minecraft-1-19/)
 - [Stackable-Potions](https://modrinth.com/datapack/stackable-potions)
