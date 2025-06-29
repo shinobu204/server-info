@@ -48,16 +48,16 @@
 
 ### Performance
 - Noisium
-- C2ME
 - Lithium
 - FerriteCore
 - Clumps
 - Chunky
 - ModernFix
-- Distant Horizons
+  
+
+ *There once was C2ME and Distant Horizons, but the hardware couldn't keep up*😔
 
 ### Info/Logging
-- Ledger
 - Spark
 - Textile Backup
 - EasyAuth
