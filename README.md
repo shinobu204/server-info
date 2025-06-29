@@ -1,5 +1,5 @@
 # [‼️‼️‼️ Mandatory Resource Packs [CLICK ME] ‼️‼️‼️](https://drive.proton.me/urls/WC7FGTEBXR#HFq21ElbsgxE)
-#### *Unfortunately, Minecraft's `require-resource-pack` option only allows to force download one pack on join, so I must host it elsewhere.*
+#### *Unfortunately, Minecraft only allows the server to push one resource pack for the client to download on join, so I must host it elsewhere.*
 ​
 
 # [ℹ️ Recommended (optional) Prism Launcher profile [CLICK ME] ℹ️]()
