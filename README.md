@@ -1,9 +1,9 @@
 # [‼️‼️‼️ Mandatory Resource Packs [CLICK ME] ‼️‼️‼️](https://drive.proton.me/urls/WC7FGTEBXR#HFq21ElbsgxE)
-#### *Unfortunately, Minecraft only allows the server to push one resource pack for the client to download on join, so I must host it elsewhere.*
+*Unfortunately, Minecraft only allows the server to push one resource pack for the client to download on join, so I must host it elsewhere.*
 ​
 
 # [ℹ️ Recommended (optional) Prism Launcher profile [CLICK ME] ℹ️]()
-​#### *Work in progress. Coming: 30.06.2025*
+*Work in progress. Coming: 30.06.2025.*
 ​
 ​
 ​
