@@ -3,7 +3,7 @@
 ​
 
 # [ℹ️ Recommended (optional) Prism Launcher profile [CLICK ME] ℹ️]()
-*Work in progress. Coming: 30.06.2025.*
+*Work in progress. Coming: 01.07.2025.*
 ​
 ​
 ​
