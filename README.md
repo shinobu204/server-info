@@ -28,6 +28,7 @@
 - [Player Graves](https://modrinth.com/datapack/player-graves)
 - [Yggdrasil](https://modrinth.com/datapack/yggdrasil-structure)
   - [wiki](https://voxel.hardel.io/en-us/datapacks/yggdrasil)
+- [Death Count](https://modrinth.com/datapack/death-count)
 
 # Server-side mods
 ### World Gen
