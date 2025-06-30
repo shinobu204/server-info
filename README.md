@@ -2,8 +2,8 @@
 *Unfortunately, Minecraft only allows the server to push one resource pack for the client to download on join, so I must host it elsewhere.*
 ​
 
-# [ℹ️ Recommended (optional) Prism Launcher profile [CLICK ME] ℹ️]()
-*Work in progress. Coming: 01.07.2025.*
+# [ℹ️ Recommended (optional) Prism Launcher profile [CLICK ME] ℹ️](https://drive.proton.me/urls/WZ7FSAN38R#PCQRJSMpwLpd)
+*You can tweak it to fit your needs.*
 ​
 ​
 ​
