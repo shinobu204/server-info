@@ -58,6 +58,7 @@
  *There once was C2ME and Distant Horizons, but the hardware couldn't keep up*😔
 
 ### Info/Logging
+- Death Count
 - Spark
 - Textile Backup
 - EasyAuth
@@ -71,3 +72,4 @@
 - Essential Commands
 - SkinRestorer
 - HeyThatsMine
+- [Auto Harvest](https://modrinth.com/datapack/auto-harvest)
