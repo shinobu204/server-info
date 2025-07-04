@@ -9,7 +9,6 @@
 ​
 
 # Datapacks
-- [Auto Harvest](https://modrinth.com/datapack/auto-harvest)
 - [Animated Doors](https://modrinth.com/resourcepack/animated-doors)
 - [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights) 
 - [NeoEnchant+ (this is the vanilla NeoEnchant+ page, our config is custom due to balancing)](https://modrinth.com/project/BynmO8IO)
@@ -29,7 +28,6 @@
 - [Player Graves](https://modrinth.com/datapack/player-graves)
 - [Yggdrasil](https://modrinth.com/datapack/yggdrasil-structure)
   - [wiki](https://voxel.hardel.io/en-us/datapacks/yggdrasil)
-- [Death Count](https://modrinth.com/datapack/death-count)
 
 # Server-side mods
 ### World Gen
