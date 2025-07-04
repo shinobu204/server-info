@@ -33,7 +33,7 @@
 # Server-side mods
 ### World Gen
 - [Incendium](https://modrinth.com/datapack/incendium)
-  - [wiki](https://github.com/efeketket/furnicraft/wiki)
+  - [wiki](https://stardustlabs.miraheze.org/wiki/Incendium)
 - Terralith
 - Tectonic
 - Nullscape
