@@ -9,6 +9,7 @@
 ​
 
 # Datapacks
+- [Auto Harvest](https://modrinth.com/datapack/auto-harvest)
 - [Animated Doors](https://modrinth.com/resourcepack/animated-doors)
 - [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights) 
 - [NeoEnchant+ (this is the vanilla NeoEnchant+ page, our config is custom due to balancing)](https://modrinth.com/project/BynmO8IO)
