@@ -66,6 +66,7 @@
 ### Tools
 - Carpet
 - Vanish
+- [Anvil Never Too Expensive](https://modrinth.com/mod/ante)
 - Anti Xray
 - Skin Shuffle
 - RightClickHarvest
