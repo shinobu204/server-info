@@ -10,7 +10,6 @@
 
 # Datapacks
 - [Animated Doors](https://modrinth.com/resourcepack/animated-doors)
-- [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights) 
 - [NeoEnchant+ (this is the vanilla NeoEnchant+ page, our config is custom due to balancing)](https://modrinth.com/project/BynmO8IO)
   - [wiki](https://hardels-organization.gitbook.io/voxel/neo-enchant+/getting-started)
 - [Player Health Indicator](https://modrinth.com/project/OCf6QSF2) 
@@ -18,8 +17,6 @@
   - [wiki](https://github.com/Eclipse-Studios/backpacks/wiki/Table-of-Contents)
 - [Furnicraft](https://modrinth.com/datapack/ketkets-furnicraft)
   - [wiki](https://github.com/efeketket/furnicraft/wiki)
-- [NightmareMode (some things were changed due to incompatibilities)](https://modrinth.com/datapack/nightmare-mode)
-  - [wiki](https://gamingbarn.net/Datapacks/12)
 - [Stackable Potions](https://modrinth.com/datapack/stackable-potions)
 - [Better Furnace](https://modrinth.com/datapack/better-furnace)
 - [Hit The Dummy](https://modrinth.com/project/1iWHuzOM)
